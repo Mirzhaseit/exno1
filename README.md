@@ -21,6 +21,7 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
+```
 ![alt text](<Screenshot 2025-03-05 162206.png>)
 ![alt text](<Screenshot 2025-03-05 162219.png>)
 ![alt text](<Screenshot 2025-03-05 162233.png>)
@@ -43,5 +44,6 @@ STEP 6: Use zscore of to remove outliers
 ![alt text](<Screenshot 2025-03-05 162518.png>)
 ![alt text](<Screenshot 2025-03-05 162528.png>)
 ![alt text](<Screenshot 2025-03-05 162536.png>)
+```
 # Result
  Thus the given data and perform data cleaning and save the cleaned data to a file was done successfully.
